@@ -135,7 +135,7 @@ Here are some screenshots of the E-Bank application:
 ![Creation of customers](./assets/newCustomer.png)
 
 ### Password Reset
-![Password Reset](./assets/newCustomer.png)
+![Password Reset](./assets/PasswordReset.png)
 
 ## Usage
 
